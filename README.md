@@ -2,7 +2,7 @@
 Remake version of <a href="https://github.com/muzan519/wp-login-checker">https://github.com/muzan519/wp-login-checker</a><br>
 In this version we added more features like auto upload themes, plugin (with backdoor inside) and auto install wp file manager
 
-![Wp-Auto](https://raw.githubusercontent.com/muzan519/wp-auto/main/image.png)
+![Wp-Auto]()
 
 # Version 1.1 Update
 ```
